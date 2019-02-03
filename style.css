@@ -1,0 +1,14 @@
+#styling_h1_headers
+{
+    text-align: center;
+    text-decoration-color: darkred;
+    color: darkolivegreen;
+    font-family: Cambria;
+}
+
+#image_styling
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
